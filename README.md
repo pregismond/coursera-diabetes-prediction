@@ -1,11 +1,12 @@
 # Diabetes Prediction Project
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpregismond%2Fcoursera-diabetes-prediction&label=Visitors&countColor=%230d76a8&style=flat&labelStyle=none)
 [![License](https://img.shields.io/badge/License-Apache_2.0-0D76A8?style=flat)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.10.12](https://img.shields.io/badge/Python-3.10.12-green.svg)](https://shields.io/)
 
 ## Disclaimer
 
-This repository is based on ***Coursera Project Network: Diabetes Prediction with PySpark MLLIB***. The original files were provided by the Coursera Project Network as part of the **[Diabetes Prediction With Pyspark MLLIB](https://www.coursera.org/learn/diabetes-prediction-with-pyspark-mllib)** course on Coursera. I have made modifications to fulfill the project requirements.
+This repository demonstrates how to build a logistic regression model to classify between diabetic and non-diabetic patients. The solution provided is based on the **Coursera Project Network: [Diabetes Prediction With Pyspark MLLIB](https://www.coursera.org/learn/diabetes-prediction-with-pyspark-mllib)** project-based course on Coursera.
 
 ### Usage
 
@@ -15,7 +16,7 @@ This repository is based on ***Coursera Project Network: Diabetes Prediction wit
 
 ## Project Scenario
 
-
+This project aims to predict diabetes using a Logistic Regression classifier built with PySpark MLlib.
 
 ## Objectives
 
@@ -26,13 +27,11 @@ This repository is based on ***Coursera Project Network: Diabetes Prediction wit
 
 ## Datasets
 
-For this project, we will use a modified version of the Pima Indians Diabetes Database `diabetes.csv`, which is available in this repository.
+For this project, we will use a modified version of the Pima Indians Diabetes Database (`diabetes.csv`), which is available in this [repository](https://github.com/pregismond/diabetes_dataset).
 
-The original dataset can be found here: 
+The original dataset can be found here: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
-The dataset contains data of female patients only. It contains some of the symptoms of diabetic patients like age, blood pressure, BMI, insulin, glucose, etc. and has got an output class label that has two values as either 0 or 1. The 0 resembles that a patient is non-diabetic and 1 resembles that a person has diabetes. Please note that this dataset, and the model that we train in the project, cannot be used in real life. We are only using this data for educational purposes.
-
-The dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+This dataset contains data exclusively from female patients. It includes various symptoms of diabetes, such as age, blood pressure, BMI, insulin levels, glucose levels, etc. The dataset also has an output class label with two possible values: 0 and 1. A value of 0 indicates that the patient is non-diabetic, while a value of 1 indicates that the patient has diabetes. Please note that this dataset and the model we train in this project are for educational purposes only and cannot be used in real-life applications.
 
 
 ## Learner

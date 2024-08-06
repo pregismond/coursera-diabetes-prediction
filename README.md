@@ -48,13 +48,20 @@ Follow the steps below to execute the provided Jupyter Notebook for this project
 3. **Upload an existing notebook**:
 
     - On the `Open notebook` page, navigate to the `Upload` tab.
-    - Find and select the notebook you want to open.
+    - Browse and select the notebook you want to open.
 
 ![colab-01](./images/colab-01.png)
 
-4. **Start executing code**: Once the notebook is open you can start executing code in the cells.
+4. **Clear All Outputs**:
 
-    - Click the "Play" button or type ***Ctrl+Enter*** to run the cell.
+    - Click on the `Edit` menu
+    - Select `Clear all outputs` from the dropdown menu
+
+![colab-06](./images/colab-06.png)
+
+5. **Start executing code**:
+
+    - Click the "Play" button (triangle icon) on the left side of the cell or press ***Ctrl+Enter*** on your keyboard to run the cell.
 
 ![colab-02](./images/colab-02.png)
 

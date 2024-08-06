@@ -41,11 +41,11 @@ Follow the steps below to execute the provided Jupyter Notebook for this project
 
 1. **Go to Google Colab**: Open your web browser and go to [Google Colab](https://colab.research.google.com/).
 
-2. **Sign in**: If you aren't already signed in, use your Google account to sign in.
+2. **Sign In**: If you aren't already signed in, use your Google account to sign in.
 
 ![colab-00](./images/colab-00.png)
 
-3. **Upload an existing notebook**:
+3. **Upload Notebook**:
 
     - On the `Open notebook` page, navigate to the `Upload` tab.
     - Browse and select the notebook you want to open.
@@ -59,7 +59,7 @@ Follow the steps below to execute the provided Jupyter Notebook for this project
 
 ![colab-06](./images/colab-06.png)
 
-5. **Start executing code**:
+5. **Start Executing Code**:
 
     - Click the "Play" button (triangle icon) on the left side of the cell or press ***Ctrl+Enter*** on your keyboard to run the cell.
 
